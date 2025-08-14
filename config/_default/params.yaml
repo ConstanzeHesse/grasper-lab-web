@@ -37,6 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
+      image: "apple-touch-icon.png"
       text: "Grasper Lab"
 
 # Site footer
