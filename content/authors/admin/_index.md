@@ -21,7 +21,7 @@ role: Principal Investigator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Aberdeen
+  - name: University of Mickey Mouse
     url: http://abdn.ac.uk
   - name: School of Psychology
     url: https://abdn.ac.uk/psychology
