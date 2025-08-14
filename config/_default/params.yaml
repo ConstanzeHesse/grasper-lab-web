@@ -6,8 +6,10 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
-
+  color: teal
+  custom_css: 
+    - css/custom.css
+  
 # SEO
 marketing:
   seo:
@@ -35,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Grasper Lab"
 
 # Site footer
 footer:
@@ -58,3 +60,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+sharing: false
+show_page_nav: false

@@ -1,0 +1,21 @@
+/* Force replace emerald backgrounds everywhere */
+.bg-emerald, 
+[class*="bg-emerald"] {
+  background-color: #003366 !important; /* Dark blue */
+}
+
+/* Optional: also change border colours if theme uses them */
+.border-emerald, 
+[class*="border-emerald"] {
+  border-color: #003366 !important;
+}
+
+/* Hide dates on cards (people listing) */
+.view-card .article-metadata { display: none; }
+
+/* Make summaries in cards respect line breaks from YAML */
+.article-summary {
+  white-space: pre-line;
+}
+
+body { outline: 3px solid red; }

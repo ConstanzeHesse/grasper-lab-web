@@ -1,0 +1,20 @@
+---
+title: "Grasper Lab Team"
+type: landing
+_build:
+  list: never
+cascade:
+  show_date: false     # hide dates on all child pages/cards
+sections:
+  - block: collection
+    content:
+      count: 0
+      filters:
+        folders: [people]       # pull items from content/people/*
+        exclude:
+          kinds: ["section"]    # don't list this _index page as a card
+    design:
+      view: card                # nice grid cards
+      columns: "3"
+---
+

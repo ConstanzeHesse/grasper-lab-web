@@ -1,0 +1,21 @@
+{{- $funding := .Page.Params.funding -}}
+{{- if $funding }}
+<section class="mt-8">
+  <h2>Funding</h2>
+  <ul>
+    {{- range $funding }}
+    <li style="margin:0 0 0.8rem 0;">
+      <div><strong>{{ .agency }}</strong>{{ with .scheme }} — {{ . }}{{ end }}{{ with .award_id }} ({{ . }}){{ end }}</div>
+      {{ with .title }}<div style="font-style:italic; margin:0.15rem 0 0.25rem 0;">{{ . }}</div>{{ end }}
+      <div style="opacity:.9;">
+        {{ with .years }}<span>{{ . }}</span>{{ end }}
+        {{ with .amount }}<span> — {{ . }}</span>{{ end }}
+        {{ with .role }}<span> — {{ . }}</span>{{ end }}
+        {{ with .url }}<span> — <a href="{{ . }}" target="_blank" rel="noopener">Grant page</a></span>{{ end }}
+      </div>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
+

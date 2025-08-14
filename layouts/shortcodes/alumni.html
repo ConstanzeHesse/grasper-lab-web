@@ -1,0 +1,36 @@
+<!-- Alumni: 1 col on mobile, 2 cols on md+, stacked lines, with role icons -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+  {{ range .Site.Data.alumni }}
+    <div class="leading-tight">
+      <!-- Line 1: Name (link if provided) -->
+      <div class="text-lg font-semibold tracking-tight">
+        {{- if .link -}}
+          <a class="no-underline hover:underline underline-offset-2 decoration-2" href="{{ .link }}">{{ .name }}</a>
+        {{- else -}}
+          {{ .name }}
+        {{- end -}}
+      </div>
+
+      <!-- Line 2: Role + icon -->
+      <div class="text-sm opacity-80 mt-0.5">
+        {{- $role := default "" .role -}}
+        {{- $roleLower := lower $role -}}
+        {{- if in $roleLower "phd" -}}🎓 {{- end -}}
+        {{- if or (in $roleLower "research assistant") (eq $roleLower "ra") -}}🧪 {{- end -}}
+        {{- if in $roleLower "msc" -}}🎓 {{- end -}}
+		{{- if in $roleLower "research intern" -}}🧭 {{- end -}}
+        {{- $role -}}
+      </div>
+
+      <!-- Line 3: Years (small, never wraps weirdly) -->
+      {{ with .years }}
+        <div class="text-xs opacity-70 mt-0.5 whitespace-nowrap">{{ . }}</div>
+      {{ end }}
+
+      <!-- Line 4: Current position/affiliation (optional) -->
+      {{ with .now }}
+        <div class="text-sm opacity-80 mt-1">{{ . }}</div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>
