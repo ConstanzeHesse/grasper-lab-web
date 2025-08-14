@@ -15,8 +15,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'Constanze Hesse Grasper Lab Aberdeen'
+    org_name: 'Grasper Lab University of Aberdeen'
+    description: 'Constanze Hesse Grasper '
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -42,7 +42,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Constanze Hesse. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
