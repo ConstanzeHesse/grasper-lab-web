@@ -15,9 +15,9 @@ weight: 2
 [Bluesky](https://bsky.app/profile/martingiesel.bsky.social)
 [Email](mailto:martin.giesel@abdn.ac.uk)
 
-Martin is an Experimental Psychologist with a lot of interests in gerneral area of visual perception and action-perception interactions. He investigated chromatic discrimination and 
+Martin is an Experimental Psychologist with a lot of interests in the general area of visual perception and action-perception interactions. He investigated chromatic discrimination and 
 colour appearance of complex naturalistic stimuli during his PhD using psychophysical experimentation and computational modelling. He then moved on to the investigation of 
-visual perception of materials and material properties at SUNY College of Optometry working with Qasim Zaidi. In 2015, he moved to Scotland and first  Julie Harris’ lab at the 
+visual perception of materials and material properties at SUNY College of Optometry working with Qasim Zaidi. In 2015, he moved to Scotland and first joined Julie Harris’ lab at the 
 University of St Andrews where he worked on a project investigating the perception of motion-in-depth and vergence eye movements. 
-He then joined the Grasper lab, where he investigated perception and action processes in both natural and virtual environments. 
+He then joined the Grasper lab, where he investigates perception and action processes in both natural and virtual environments. 
 

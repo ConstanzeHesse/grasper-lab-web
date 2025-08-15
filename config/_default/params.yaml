@@ -36,8 +36,9 @@ header:
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
+    favicon: true
     logo:
-      image: "apple-touch-icon.png"
+      image: "favicon.ico"
       text: "Grasper Lab"
 
 # Site footer
