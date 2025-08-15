@@ -12,13 +12,7 @@ sections:
           <p>We all love our research and share a passion for food.
           If you want to join our team, please get in touch!</p>
         </div>
-        <style>
-          /* Hide the date inside card views on this page */
-          .section-heading + .article-grid time,
-          .section-heading + .article-grid .article-metadata {
-            display: none !important;
-          }
-        </style>
+        <style>.view-card time,.view-card .article-metadata{display:none!important}</style>
   - block: collection
     content:
       title: "Meet the Team"

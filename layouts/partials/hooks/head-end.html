@@ -1,0 +1,13 @@
+<style>
+  /* Hide dates on people cards/lists anywhere on the site */
+  /* Covers both card grids and text lists in Hugo Blox Tailwind */
+  .view-card time,
+  .view-card .article-metadata,
+  .article-grid time,
+  .article-grid .article-metadata,
+  /* extra safety: if date sits inside the link to a person page */
+  a[href*="/people/"] time,
+  a[href*="/people/"] .article-metadata {
+    display: none !important;
+  }
+</style>
