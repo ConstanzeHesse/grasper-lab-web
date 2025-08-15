@@ -4,7 +4,7 @@ role: Associated Lab Member
 summary: |
   Associated Researcher - 
   Perception & Action 
-date: 2025-06-01
+date: 2018-05-01
 show_date: false
 share: false
 weight: 2
