@@ -12,7 +12,8 @@ weight: 4
 **Research Assistant**  
 [Email](mailto:caitlin.tittensor@abdn.ac.uk)
 
-  Caitlin joined the Grasper Lab as a Reserach Assistant on the ESRC funded project "UNTOUCH" in summer 2024.
+Caitlin joined the Grasper Lab in summer 2024 as a Research Assistant on an ESRC-funded project investigating affective unpleasant 
+touch.
   
   Interests:
   - Haptic Perception
