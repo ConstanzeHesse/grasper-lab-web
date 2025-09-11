@@ -16,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'Grasper Lab University of Aberdeen'
-    description: 'Constanze Hesse Grasper '
+    description: 'Constanze Hesse Grasper Lab'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -25,7 +25,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: '2OVqX3ofdZKRqq-bd8U7nxZPA_kP9_DIQIBqkpu8o98'
     baidu: ''
 
 # Site header
