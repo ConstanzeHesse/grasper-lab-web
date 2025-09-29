@@ -24,7 +24,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Human movement science*'
+publication: '*Human Movement Science*'
 publication_short: ''
 
 doi: ''

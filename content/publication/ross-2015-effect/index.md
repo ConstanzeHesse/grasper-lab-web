@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*PloS one*'
+publication: '*PloS One*'
 publication_short: ''
 
 doi: ''

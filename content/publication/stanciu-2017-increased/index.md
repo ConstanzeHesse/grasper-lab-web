@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Psychological research*'
+publication: '*Psychological Research*'
 publication_short: ''
 
 doi: ''

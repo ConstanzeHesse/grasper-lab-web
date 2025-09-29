@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Behavioural brain research*'
+publication: '*Behavioural Brain Research*'
 publication_short: ''
 
 doi: ''

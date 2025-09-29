@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of vision*'
+publication: '*Journal of Vision*'
 publication_short: ''
 
 doi: ''

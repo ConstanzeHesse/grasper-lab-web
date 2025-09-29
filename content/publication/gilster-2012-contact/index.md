@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Experimental brain research*'
+publication: '*Experimental Brain Research*'
 publication_short: ''
 
 doi: ''

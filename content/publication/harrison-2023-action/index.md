@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Perceptual and motor skills*'
+publication: '*Perceptual and Motor Skills*'
 publication_short: ''
 
 doi: ''

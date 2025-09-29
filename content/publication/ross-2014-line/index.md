@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Acta psychologica*'
+publication: '*Acta Psychologica*'
 publication_short: ''
 
 doi: ''

@@ -28,7 +28,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*cortex*'
+publication: '*Cortex*'
 publication_short: ''
 
 doi: ''

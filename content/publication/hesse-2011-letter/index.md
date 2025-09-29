@@ -7,8 +7,8 @@ title: 'Letter posting and orientation matching: two equivalent tasks in action 
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Volker Franz
 - Constanze Hesse
+- Volker Franz
 - Thomas Schenk
 
 # Author notes (such as 'Equal Contribution')
@@ -26,7 +26,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Seeing and perceiving*'
+publication: '*Seeing and Perceiving*'
 publication_short: ''
 
 doi: ''
