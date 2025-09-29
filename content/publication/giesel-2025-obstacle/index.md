@@ -15,6 +15,7 @@ authors:
 author_notes: []
 
 date: '2025-06-01'
+share: false
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
 publishDate: '2025-08-08T13:30:51.174404Z'
@@ -38,7 +39,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: true
+featured: false
 
 # Links
 url_pdf: 'https://link.springer.com/article/10.1007/s10055-025-01119-y'
