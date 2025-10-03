@@ -3,11 +3,11 @@ title: Caitlin Tittensor
 role: Research Assistant
 summary: |
   Research Assistant - 
-  UNTOUCH 
+  Haptic Perception & Affective Touch 
 date: 2024-10-01
 show_date: false
 share: false
-weight: 4
+weight: 5
 ---
 **Research Assistant**  
 [Email](mailto:caitlin.tittensor@abdn.ac.uk)

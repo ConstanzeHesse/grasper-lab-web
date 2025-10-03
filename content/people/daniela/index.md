@@ -3,7 +3,7 @@ title: Daniela Ruseva
 role: PhD-Student
 summary: |
   PhD Student - 
-  Food Perception and Attention 
+  Food Perception & Attention 
 date: 2024-09-01
 show_date: false
 share: false

@@ -3,11 +3,11 @@ title: Ke Zhao
 role: Research Assistant
 summary: |
   Research Assistant - 
-  Perception and Action 
+  Perception & Action 
 date: 2024-10-01
 show_date: false
 share: false
-weight: 5
+weight: 6
 ---
 **Research Assistant**  
 [Email](mailto:k.zhao.24@abdn.ac.uk)
