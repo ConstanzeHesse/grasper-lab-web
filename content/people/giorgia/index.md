@@ -9,7 +9,7 @@ show_date: false
 share: false
 weight: 4
 ---
-**PhD Student** · Clinical Neuroscience  
+**Visting PhD Student** · Clinical Neuroscience  
 [Website](https://www.dnbm.univr.it/?ent=persona&id=79616)
 [Email](mailto:giorgia.rotundo@abdn.ac.uk)
 
