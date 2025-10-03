@@ -2,7 +2,7 @@
 title: Giorgia Rotundo
 role: Visiting PhD-Student
 summary: |
-  PhD Student - 
+  Visting PhD Student - 
   Clinical Neuroscience & Movement Science 
 date: 2025-09-15
 show_date: false
