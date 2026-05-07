@@ -1,0 +1,18 @@
+# Website maintenance cheat sheet
+
+Run locally:
+hugo server --disableFastRender
+
+Push updates:
+git add .
+git commit -m "message"
+git push
+
+Alumni:
+data/alumni.yaml
+
+Alumni layout:
+layouts/shortcodes/alumni.html
+
+Homepage:
+content/_index.md
